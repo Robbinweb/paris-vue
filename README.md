@@ -8,7 +8,8 @@
 数据库文件路径为：\server\paris.sql
 
 2.server文件夹下的server是后台的入口文件。
-$ node server.js
+$ node app.js
 
 3.根目录下运行
 $npm start
+
