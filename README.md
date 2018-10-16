@@ -11,7 +11,3 @@
 $ node server.js
 
 $npm start
-
-# paris-app-angular
-# paris-app-angular
-# paris-app-angular
